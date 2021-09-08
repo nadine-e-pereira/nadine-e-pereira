@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nadine Pereira!
+- 🌱 I’m currently learning Java.
+- 📫 You can reach me on instagram as @nadine.e.pereira.
