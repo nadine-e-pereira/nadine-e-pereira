@@ -4,8 +4,8 @@ Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me form
  
 <div align="center">
   <a href="https://github.com/nadine-e-pereira">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=nadine-e-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadine-e-pereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadine-e-pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadine-e-pereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
