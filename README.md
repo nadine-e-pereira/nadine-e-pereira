@@ -1,6 +1,6 @@
 ## Olá! ㋡
 
-Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me formando em Análise e Desenvolvimento de Sistemas na UNA e meu foco é me aprimorar na linguagem JAVA <img align="center" alt="Nadine-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me formando em Análise e Desenvolvimento de Sistemas na UNA e meu foco é me aprimorar na linguagem JAVA. <img align="center" alt="Nadine-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
 <div align="center">
   <a href="https://github.com/nadine-e-pereira">
@@ -10,7 +10,7 @@ Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me form
   
   ##
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/nadine.e.pereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/nadine.pereira#3173" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nadine.e.pereira.2002@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
