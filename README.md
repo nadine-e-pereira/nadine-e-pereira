@@ -1,6 +1,6 @@
 ## Olá! ㋡
 
-Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me formando em Análise e Desenvolvimento de Sistemas na UNA e meu foco é me aprimorar na linguagem JAVA. <img align="center" alt="Nadine-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me formando em Análise e Desenvolvimento de Sistemas na UNA e atualmente meu foco é me aprimorar na linguagem JAVA. <img align="center" alt="Nadine-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  
 <div align="center">
   <a href="https://github.com/nadine-e-pereira">
