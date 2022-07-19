@@ -16,6 +16,6 @@ Meu nome é Nadine Pereira, tenho 19 anos e iniciei em TI em 2021. Estou me form
   <a href = "mailto:nadine.e.pereira.2002@gmailcom"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nadine-e-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/nadine-e-pereira/nadine-e-pereira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/nadine-e-pereira/nadine-e-pereira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
